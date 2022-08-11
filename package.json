@@ -1,0 +1,22 @@
+{
+  "name": "kyriassj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-buttons": "^4.0.0",
+    "discord-fivem-api": "^1.0.6",
+    "discord-inline-reply": "^1.0.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.1",
+    "sourcebin_js": "^0.0.3-ignore",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

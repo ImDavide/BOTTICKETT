@@ -1,0 +1,17 @@
+{
+    "prefix": ".",
+    "ticket": {
+        "idcategoriaticket": "1007348261755039805", 
+        "idcategoriaticket2": "1007348284907593768",
+        "idcategoriaticket3": "1007348299046596608",
+        "idcategoriaticket4": "997850197956775956",
+        "coments1": "1007347314492457030",
+        "idcargoticket1": "1007216032420728882",
+        "idcargoticket2": "1007216032420728882",
+        "idcargoticket3": "1007216032420728882"
+    },
+    "server": {
+        "idedoservidor": "1007016257842843778",
+        "imagemserver": "https://media.discordapp.net/attachments/947065424980344913/1007382021485637663/IMG_5300.jpg"
+    }
+}
